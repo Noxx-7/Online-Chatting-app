@@ -24,3 +24,4 @@ const App = () => {
   // infinite scroll, logout, more customizations...
   
   export default App;
+  // this app help to connect people with each other.
